@@ -1,0 +1,15 @@
+.crystal
+{
+	width: 100px;
+	height: 100px;
+}
+
+body{
+background-image:url("../images/bg2.png");
+background-repeat: no-repeat;
+background-size:100%;
+color:white;
+}
+#info{
+	margin-left: 40px;
+}
